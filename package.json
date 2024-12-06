@@ -21,6 +21,7 @@
     "mongoose": "^5.12.2",
     "nodemailer": "^6.5.0",
     "paypal-rest-sdk": "^1.8.1",
+    "punycode": "^2.3.1",
     "server_app": "file:",
     "socket.io": "^3.1.0"
   },
